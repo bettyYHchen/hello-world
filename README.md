@@ -1,2 +1,4 @@
 # hello-world
-Just another repository 
+Hello Human,
+
+This is just a exercise file for familarizing github. 
